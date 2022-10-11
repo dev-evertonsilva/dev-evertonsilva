@@ -1,4 +1,9 @@
-## Hi 👋
+- 👋 Hi, I’m @dev-evertonsilva
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Html, Css, JavaScript, C#, VB.Net, Groovy.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me everton.ss7@icloud.com
+
 
 Would you like to find me ?
 
