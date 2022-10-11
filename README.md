@@ -5,12 +5,15 @@
 - 📫 How to reach me everton.ss7@icloud.com
 
 
+
 Would you like to find me ?
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evlsilva/)](https://www.linkedin.com/in/evlsilva/)
 
 
 
 ### My GitHub Stats
+
 
 <div>
   <a href="https://github.com/dev-evertonsilva">
